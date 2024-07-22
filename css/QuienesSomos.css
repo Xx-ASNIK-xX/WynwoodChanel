@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000000;
+    background-color: #ffffff;
     
 }
 
@@ -24,7 +24,7 @@ body {
 
 .Inicio2 h1{
 
-color: #FFF;
+color: #000;
 text-align: center;
 font-family: Roboto;
 font-size: 64px;
@@ -34,7 +34,7 @@ line-height: normal;
 }
 
 .Inicio2 p{
-    color: #FFF;
+    color: #000;
 
 text-align: center;
 font-family: Roboto;
