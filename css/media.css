@@ -18,7 +18,7 @@
     margin-left:1rem;
     margin-right:1rem; /* Adecua este valor para controlar la altura del video */
     position:relative;
-    height:700px;
+    height:650px;
     justify-content: center;
 }
 .video-responsive iframe{
@@ -27,6 +27,23 @@
     height:100%;
     width:70rem;
 }
+
+.video-responsive1 {
+    display: flex;
+    overflow:hidden;
+    margin-left:1rem;
+    margin-right:1rem; /* Adecua este valor para controlar la altura del video */
+    position:relative;
+    height:484px;
+    justify-content: center;
+}
+.video-responsive1 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:71rem;
+}
+
 /* End: Video Responsive */
 
 .img1 {
