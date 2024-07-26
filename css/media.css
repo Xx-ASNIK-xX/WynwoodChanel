@@ -18,7 +18,7 @@
     margin-left:1rem;
     margin-right:1rem; /* Adecua este valor para controlar la altura del video */
     position:relative;
-    height:800px;
+    height:700px;
     justify-content: center;
 }
 .video-responsive iframe{
@@ -120,4 +120,22 @@ figcaption {
 	.a1:is(:hover, :focus) img {
 		transform: scale(1.2);
 	}
+
+}
+
+@media screen and (max-width: 768px){
+    
+    .video-responsive {
+
+        height:600px;
+
+    }
+}
+@media screen and (max-width: 480px){
+    
+    .video-responsive {
+
+        height:430px;
+
+    }
 }
