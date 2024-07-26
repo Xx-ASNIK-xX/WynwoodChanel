@@ -65,6 +65,8 @@
   align-items: center;
 }
 .slider .card {
+  text-decoration: none;
+  color: black;
   scroll-snap-align: start;
   height: 342px;
   margin: 9px;
